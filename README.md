@@ -8,8 +8,11 @@ From accounting equations to chemistry formulas.
 
 Steps:
 -pick a photo/take a picture
+
 -load your text content
+
 -hit save & enjoy
+
 
 to hide  or show the info, just press the digital clock.
 
